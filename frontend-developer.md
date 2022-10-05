@@ -24,8 +24,8 @@ Aloha Group Limited是由一群數位營銷和技術專家組成的香港🇭�
 
 
 ### 工作
-- 使用設計好的 Figma 切版
-- 和後端工程師協同作業串接 API
+- SEO 資料視覺化工具 UI 介面功能開發（已有用 Figma 設計好的 layout)
+- 與後端團隊配合，串接 API
 
 ### 要求
 - 熟悉 HTML5 / CSS3 / JavaScript(ES6+)
@@ -39,6 +39,8 @@ Aloha Group Limited是由一群數位營銷和技術專家組成的香港🇭�
 - 樂於嘗試新技術，並與其他同仁共享與討論研究成果
 
 ### 加分條件
+- 具備資料分析處理能力尤佳
+- 有圖表套件使用經驗 (如 chart.js)
 - 有 API / Library 串接經驗
 - 有 TypeScript 開發經驗
 - 有 Webpack, Vite 使用經驗

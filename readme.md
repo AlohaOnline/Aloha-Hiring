@@ -2,7 +2,7 @@
 
 [NodeJS工程師(後端)👷👷‍♀️](backend-developer.md)
 
-[Junior 前端工程師 👷👷‍♀️](frontend-developer.md)
+[Junior前端工程師 👷👷‍♀️](frontend-developer.md)
 
 [Python工程師🐍](python-developer.md)
 
@@ -10,4 +10,4 @@
 
 [數據工程師📊](data-engineer.md)
 
-__*最後更新: 2022-07-25*__
+__*最後更新: 2022-10-05*__

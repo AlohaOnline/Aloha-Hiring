@@ -2,7 +2,7 @@
 
 [NodeJS工程師(後端)👷👷‍♀️](backend-developer.md)
 
-[Junior 前端工程師👷👷‍♀️](frontend-developer.md)
+[Junior 前端工程師 👷👷‍♀️](frontend-developer.md)
 
 [Python工程師🐍](python-developer.md)
 

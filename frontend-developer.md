@@ -1,6 +1,6 @@
 #徵才
 
-# NodeJS工程師(後端) 👷👷‍♀️
+# Junior 前端工程師 👷👷‍♀️
 工作地點: **_台北 + 遠端_** 🇹🇼 + 🏡
 
 
@@ -24,31 +24,34 @@ Aloha Group Limited是由一群數位營銷和技術專家組成的香港🇭�
 
 
 ### 工作
-- 開發自家SEO的SaaS平台，包括Webapp後端，數據庫，第三方API對接
-- 大數據處理，分析
-- 系統架構設計，部署，優化，佈局
+- SEO 資料視覺化工具 UI 介面功能開發（已有用 Figma 設計好的 layout)
+- 與後端團隊配合，串接 API
 
 ### 要求
-- 具有良好的NODEJS基礎，並有1年以上相關工作經驗
-- 能掌握MYSQL之運用
+- 熟悉 HTML5 / CSS3 / JavaScript(ES6+)
+- CSS 預處理 SASS/SCSS 使用經驗
+- 具備 RWD 相關知識
+- 具備 Vue 開發經驗 (Vue 3 尤佳)
+- 有 UI framework 使用經驗 (Vuetify 尤佳)
+- 有 Pinia 或 Vuex 使用經驗 (Pinia 尤佳)
+- 有 git, github 版本控制經驗
+- 略懂 GraphQL / RESTful API 相關知識
 - 樂於嘗試新技術，並與其他同仁共享與討論研究成果
 
-### 其他加分要求
-- 懂Docker/K8s/Serverless
-- 對微服務架構有認識
-- CI/CD建立
-- Data Engineer經驗, 如ETL/ELT, PowerBI, Google Data Studio
-- 對redis、memcache有認識
-- 對GraphQL/RESTful有認識
-- 於公有雲有開發經驗, 如AWS, GCP
-- 有對接第三方API經驗
-- 略懂GIT
-- WEB大型系統開發經驗：精通溝通、分析、設計、派工、開發、測試、佈署流程
+### 加分條件
+- 具備資料分析處理能力尤佳
+- 有圖表套件使用經驗 (如 chart.js)
+- 有第三方 API / Library 串接經驗
+- 有 TypeScript 開發經驗
+- 有 Webpack, Vite 使用經驗
+- 有 AWS / GCP 使用經驗
+- 有 Unit Testing 開發經驗
+- 對 SEO 有基礎了解
 
 ### 福利
 - 🇹🇼 + 🏡 台北 + 遠端工作
 - 💻/🍎 PC/Mac任選
-- 💰 基本月薪 + 年終花紅 (700,000起)
+- 💰 基本月薪 + 年終花紅 (550,000起, 視乎經驗/技能)
 - 📚 進修補助
 - 🏥 勞保和健保
 - 🧳 國定假日以外，每年還有5天的特別休假日

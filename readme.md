@@ -2,6 +2,8 @@
 
 [NodeJS工程師(後端)👷👷‍♀️](backend-developer.md)
 
+[Junior 前端工程師 👷👷‍♀️](frontend-developer.md)
+
 [Python工程師🐍](python-developer.md)
 
 [品質保證工程師💯](qa-engineer.md)

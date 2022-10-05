@@ -41,7 +41,7 @@ Aloha Group Limited是由一群數位營銷和技術專家組成的香港🇭�
 ### 加分條件
 - 具備資料分析處理能力尤佳
 - 有圖表套件使用經驗 (如 chart.js)
-- 有 API / Library 串接經驗
+- 有第三方 API / Library 串接經驗
 - 有 TypeScript 開發經驗
 - 有 Webpack, Vite 使用經驗
 - 有 AWS / GCP 使用經驗
